@@ -8,8 +8,8 @@
     "variant": "stm32l0"
   },
   "debug": {
-    "default_tool": "stlink",
-    "onboard_tools": ["stlink"],
+    "default_tool": "cmsis-dap",
+    "onboard_tools": ["cmsis-dap"],
     "openocd_target": "stm32l0",
     "svd_path": "STM32L0x0.svd"
   },
