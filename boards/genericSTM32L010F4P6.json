@@ -12,7 +12,7 @@
     "default_tool": "stlink",
     "onboard_tools": ["stlink"],
     "openocd_target": "stm32l0",
-    "svd_path": "STM32L0x3.svd"
+    "svd_path": "STM32L0x0.svd"
   },
   "frameworks": ["mbed", "stm32cube"],
   "name": "Generic STM32L010F4P6",
