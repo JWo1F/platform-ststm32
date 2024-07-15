@@ -23,8 +23,8 @@
   "upload": {
     "maximum_ram_size": 2048,
     "maximum_size": 16384,
-    "protocol": "stlink",
-    "protocols": ["jlink", "stlink", "mbed"],
+    "protocol": "cmsis-dap",
+    "protocols": ["cmsis-dap"],
     "require_upload_port": false
   },
   "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l010f4.html",
